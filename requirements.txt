@@ -1,0 +1,10 @@
+openai>=1.40.0
+python-dotenv>=1.0.0
+mss>=9.0.0
+Pillow>=10.0.0
+numpy>=1.26.0
+sounddevice>=0.4.6
+edge-tts>=6.1.0
+pygame>=2.5.0
+keyboard>=0.13.5
+SpeechRecognition>=3.10.0
